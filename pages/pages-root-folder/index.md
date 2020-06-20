@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: gallery-example-6.jpg
+  image_fullwidth: simple_header.jpg
 widget1:
   title: "Wet Lab"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
