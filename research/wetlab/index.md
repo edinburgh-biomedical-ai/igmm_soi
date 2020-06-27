@@ -3,8 +3,9 @@ layout: page
 show_meta: false
 title: "Wet Lab Experiments"
 subheadline: ""
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+teaser: 
 header:
-   image_logo: 
+   image_fullwidth: "simple_header.jpg" 
 permalink: 
 ---
+Content goes here.
