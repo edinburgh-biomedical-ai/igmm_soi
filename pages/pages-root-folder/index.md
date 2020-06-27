@@ -11,7 +11,7 @@ widget1:
   title: "Wet Lab"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'We design experiments in molecular cancer biology to model the process of cancer initiation (<em>oncogenesis</em>). Our aim is to trace DNA and RNA trajectories at cellular resolution and quantify necessary and sufficient early conditions for cancer to occur.'
+  text: 'We design experiments in molecular cancer biology to model the process of cancer initiation (<em>oncogenesis</em>). Our aim is to trace DNA and RNA trajectories at cellular resolution and quantify necessary and sufficient early conditions for cancer to occur.
   We closely collaborate with experimental biologists on both designing and performing the experiments, throughtout the data generation process.''
 widget2:
   title: "Dry Lab"
