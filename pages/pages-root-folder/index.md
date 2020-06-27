@@ -16,12 +16,12 @@ widget2:
   title: "Dry Lab"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
-  text: '1. <strong>Cancer biology</strong>: We design and/or apply computational methods to analyse and predict (i) mutational (DNA) interactions, and (ii) transcriptional (RNA) trajectories over time, during cancer initiation <br/>2. <strong>Population biology</strong>: We develop causal stastitical (non-)parametric and machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank.'
+  text: '1. <strong>Cancer biology</strong>: We design and/or apply computational methods to analyse and predict (i) mutational (DNA) interactions, and (ii) transcriptional (RNA) trajectories, during cancer initiation <br/>2. <strong>Population biology</strong>: We develop causal stastitical (non-)parametric and machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank.'
 widget3:
   title: "Teaching"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '1. Causality in Biomedicine: Aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. <br/> 2. MSc projects/BSc summer projects <br/>3. PhD projects (<a href="https://edinburgh-biomedical-ai.github.io/igmm_soi/contact/">contact</a>).'
 #
 # Use the call for action to show a button on the frontpage
 #
