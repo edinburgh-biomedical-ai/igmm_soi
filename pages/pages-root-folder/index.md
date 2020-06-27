@@ -24,15 +24,7 @@ widget3:
   image: widget-github-303x182.jpg
   text: '1. <strong>Causality in Biomedicine</strong>: Aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Two main topics of (i) Causal Effect Estimation and (ii) Causal Discovery are covered, together with biomedical applications. <br/> 2. <strong>PhD projects</strong> (<a href="https://edinburgh-biomedical-ai.github.io/igmm_soi/contact/">contact</a>) <br/>3. <strong>MSc projects</strong> <br/> 4.<strong> BSc summer projects</strong> <br/>'
 
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
+
 homepage: true
 ---
 
