@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Wetlab reserach"
-subheadline: 
-teaser: 
+show_meta: false
+title: "Research Overview"
+subheadline: ""
+teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-    image_fullwidth: "gallery-example-1-thumb.jpg"
-    caption: 'test'
-
-
+   image_logo: "presentation-feeling-responsive.jpg"
+permalink: 
+---
