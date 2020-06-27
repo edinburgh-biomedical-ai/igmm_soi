@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Wet Lab"
-    url: "/design/grid/"
+    url: "/research/wetlab/"
   - title: "Dry Lab"
     url: "/design/typography/typography/"  
 
