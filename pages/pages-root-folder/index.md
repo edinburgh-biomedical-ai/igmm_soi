@@ -17,7 +17,7 @@ widget2:
   title: "Dry Lab"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
-  text: '1. <strong><u>Cancer biology</u></strong>: We design and/or apply computational methods to analyse and predict (i) mutational (DNA) interactions, and (ii) transcriptional (RNA) trajectories, during cancer initiation <br/>2. <strong><u>Population biology</u></strong>: We develop causal stastitical (non-)parametric and machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank.'
+  text: '1. <strong><u>Cancer biology</u></strong>: We design and/or apply computational methods to analyse and predict (i) mutational (DNA) interactions, and (ii) transcriptional (RNA) trajectories, during cancer initiation <br/>2. <strong><u>Population biology</u></strong>: We develop causal (non-)parametric stastitical and machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank.'
 widget3:
   title: "Teaching"
   url: 'https://github.com/Phlow/feeling-responsive'
