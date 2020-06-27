@@ -22,7 +22,7 @@ widget3:
   title: "Teaching"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '1. <strong>Causality in Biomedicine</strong>: Aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Two main topics of (i) Causal Effect Estimation and (ii) Causal Discovery are covered, togeether with biomedical applications. <br/> 2. <strong>PhD projects</strong> (<a href="https://edinburgh-biomedical-ai.github.io/igmm_soi/contact/">contact</a>) <br/>3. <strong>MSc projects</strong> <br/> 4.<strong> BSc summer projects</strong> <br/>'
+  text: '1. <strong>Causality in Biomedicine</strong>: Aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Two main topics of (i) Causal Effect Estimation and (ii) Causal Discovery are covered, together with biomedical applications. <br/> 2. <strong>PhD projects</strong> (<a href="https://edinburgh-biomedical-ai.github.io/igmm_soi/contact/">contact</a>) <br/>3. <strong>MSc projects</strong> <br/> 4.<strong> BSc summer projects</strong> <br/>'
 #
 # Use the call for action to show a button on the frontpage
 #
