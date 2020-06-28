@@ -16,34 +16,15 @@
   side: left
   dropdown:
   - title: "Biomedicine"
-    url: "/publications/grid/"
+    url: "/publications/biomed/"
   - title: "Statistical Methods & Machine Learning"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "Theoretical Physics"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
+    url: "/publications/ML/"
+  - title: "Theoretical Physics"
+    url: "/design/physics/"
 
 - title: "People"
   url: "/headers/"
   side: left
-
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
