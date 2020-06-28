@@ -11,7 +11,7 @@ tags:
     - header
 header: no
 image:
-    title: unsplash_eagle.jpg
+    title: widget-1-302x182.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
