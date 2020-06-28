@@ -16,7 +16,7 @@
   side: left
   dropdown:
   - title: "Biomedicine"
-    url: "/design/grid/"
+    url: "/publications/grid/"
   - title: "Statistical Methods & Machine Learning"
     url: "/design/typography/typography/"
   - title: "Page/Post"
