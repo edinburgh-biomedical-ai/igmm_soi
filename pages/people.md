@@ -3,6 +3,7 @@ layout: page
 subheadline:
 title:  "People"
 teaser: "Group members"
+permalink: "/people/"
 
 <!-- header: no
 image:
