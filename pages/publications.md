@@ -1,11 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Publication Overview"
+title: "Publications Overview"
 subheadline: ""
-teaser: "3 categories: biomed, ML, physics"
-header:
-   image_logo: "presentation-feeling-responsive.jpg"
+teaser: 
 permalink: "/publications/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
