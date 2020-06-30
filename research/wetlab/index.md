@@ -1,13 +1,14 @@
 ---
 layout: page
-subheadline:
+sidebar: left
+subheadline: Templates
 title:  "Wet Lab Experiments"
 teaser: "Our wetlab experiments have a molecular cancer biology focus."
 
-header: no
 image:
-    title: integrative_approach.jpg
-    caption: An unsplash photo
-    caption_url: https://unsplash.com/photos/pwcKF7L4-no
+    thumb: gallery-example-3-thumb.jpg
+    title: gallery-example-3.jpg
+    caption_url: http://unsplash.com
 ---
 We design 
+
