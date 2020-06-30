@@ -3,25 +3,23 @@ layout: page
 show_meta: false
 title: "Research Overview"
 subheadline: ""
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+teaser:
 header:
    image_logo: "presentation-feeling-responsive.jpg"
 permalink: "/research/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
+One of the aims of biomedical genomics is to determine causal molecular interactions underlying biological processes. These interactions can be highly complex, involving many dependent variables constituting a given biological system of interest. Quantifying interactions, beyond extracting their magnitude, and moving towards obtaining information on their directionality requires well-designed experiments and/or large-scale individual-level biomedical data.   
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Wet lab ›</a> 
+Currently, our research focuses on causal molecular interactions in the context of cancer & population biomedicine:
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Dry lab ›</a>
+1. Cancer biology: Progression of cancer has been widely viewed as following Darwinian evolution, where cells acquiring somatic driver mutations are positively selected, leading to preferential expansions of clones carrying these mutations. Advances in high-throughput DNA- and RNA-sequencing have substantially increased our understanding of late-stage cancer. Yet we still lack a quantitative understanding of the necessary and sufficient early conditions and steps required for the evolution of normal cells into cancer cells. 
+
+We design experimental and computational models of early cancer to (i) capture mutational and transcriptional trajectories over time at single-cell resolution, and (ii) quantify how different driver mutation interactions lead to cooperation or competition amongst cells.  
+
+1. Population biomedicine: We develop machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank. For example, we develop (non-)parametric probabilistic and neural network approaches to (i) extract higher-order interactions from gene expression data, and (ii) quantify causal interactions amongst DNA variants leading to physiological outcomes. 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/wetlab/">Wet lab ›</a> 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/drylab/">Dry lab ›</a>
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
