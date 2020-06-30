@@ -16,7 +16,7 @@ Currently, our research focuses on causal molecular interactions in the context 
 
 We design experimental and computational models of early cancer to (i) capture mutational and transcriptional trajectories over time at single-cell resolution, and (ii) quantify how different driver mutation interactions lead to cooperation or competition amongst cells.  
 
-1. Population biomedicine: We develop machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank. For example, we develop (non-)parametric probabilistic and neural network approaches to (i) extract higher-order interactions from gene expression data, and (ii) quantify causal interactions amongst DNA variants leading to physiological outcomes. 
+2. Population biomedicine: We develop machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank. For example, we develop (non-)parametric probabilistic and neural network approaches to (i) extract higher-order interactions from gene expression data, and (ii) quantify causal interactions amongst DNA variants leading to physiological outcomes. 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/wetlab/">Wet lab ›</a> 
 
