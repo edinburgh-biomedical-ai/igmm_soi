@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Research Overview"
 subheadline: ""
-teaser: "Currently, our research focuses on two main areas of cancer biology & population biomedicine:"
+teaser: "Currently, our research focuses on two main areas of cancer biology & causality in population biomedicine:"
 
 permalink: "/research/"
 ---
@@ -14,6 +14,6 @@ We design experimental and computational models of early cancer to (i) capture m
 
 2. <strong><u>Population biomedicine</u></strong>: We develop machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank. For example, we develop (non-)parametric probabilistic and neural network approaches to (i) extract higher-order interactions from gene expression data, and (ii) quantify causal interactions amongst DNA variants leading to physiological outcomes. 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/wetlab/">Wet lab ›</a>  <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/drylab/">Dry lab ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/wetlab/">Wet lab ›</a> &nbsp; &nbsp; <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/drylab/">Dry lab ›</a>
 
 
