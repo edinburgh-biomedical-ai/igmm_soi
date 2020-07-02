@@ -26,6 +26,10 @@
   url: "/people/"
   side: left
 
+- title: "Teaching"
+  url: "/teaching/"
+  side: left  
+
 - title: "Contact"
   url: "/contact/"
   side: left
