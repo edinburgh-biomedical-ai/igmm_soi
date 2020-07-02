@@ -13,7 +13,7 @@ image:
 Currently, there is a lack of quantitative information regarding molecular mechanisms in early oncogenesis. 
 It is not clear whether every cell that acquires a known set of cancer mutations is predetermined to progress to become a cancer cell, or whether other necessary, but not on their own sufficient, genetic triggers or alterations are required for an already ‘genetically abnormal’ cell to become cancerous. 
 
-We design well-controlled tractable cancer models to study the process of oncogenesis, in collaboration with [Luke Boulter's lab][2] at the [Institute of Genetics & Molecular Medicine][1] (IGMM). We do this in the context of Hepatocellular Carcinoma (HCC), which is the most common form of primary liver cancer. Using our tractable models, we aim to trace clonal evolution over time at cellular resolution.
+We design well-controlled tractable cancer models to study the process of oncogenesis, in collaboration with [Luke Boulter's lab][2] at the [Institute of Genetics & Molecular Medicine][1] (IGMM). We do this in the context of Hepatocellular Carcinoma (HCC), which is the most common form of primary liver cancer. Using our tractable models, we trace clonal evolution over time at cellular resolution.
 
 Technologies used include: 	
 * CRISPR-Cas9
