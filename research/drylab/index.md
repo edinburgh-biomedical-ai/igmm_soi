@@ -10,9 +10,9 @@ image:
     caption_url: https://unsplash.com/photos/WiONHd_zYI4
 
 ---
-One of our current reserach interests involves developing causal inference, probabilistic and machine learning techniques to predict higher-order interactions amongst variables in biomedical data. We aim to import and develop methods that are generally applicable to different datasets & biomedical applications. Since biomedical data typically involves many dependent variables that influece each other, inferring unbiased causal estimates is a difficult task. However, it has been make more accessible via the framework of Targeted Learning, a subfield of mathematical statistics, created by Mark van der Laan. Targeted Learning demands that subject experts define their target quantity of interst objectively (non-parametrically), whilst relying on as few assumptions as possible. 
+One of our current reserach interests involves developing causal inference, probabilistic and machine learning techniques to predict higher-order interactions amongst variables in biomedical data. We aim to import and develop methods that are generally applicable to different datasets & biomedical applications. Since biomedical data typically involves many dependent variables that influence each other, inferring unbiased causal estimates is a difficult task. However, it has been make more accessible via the framework of Targeted Learning, a subfield of mathematical statistics, created by Mark van der Laan. Targeted Learning demands that subject experts define their target quantity of interst objectively (non-parametrically), whilst relying on as few assumptions as possible. 
 
-To achieve the above goals with repsect to important biomedical questions, we either generate data from well-controlled randomised experiments in the lab (1), or use large-scale data bases such as the UK Biobank (2):
+With repsect to important biomedical questions, we either generate data from well-controlled randomised experiments in the lab (1), or use large-scale data bases such as the UK Biobank (2):
 
 1. <strong><u>Cancer Biology</u></strong>:  We design and/or apply computational methods to analyse and predict how different combinations of mutations relate to their transcriptional trajectory, as well as infer how different driver mutations cooperate or compete in early oncogenesis.
 
