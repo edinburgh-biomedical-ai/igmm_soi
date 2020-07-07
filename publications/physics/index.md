@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:
-title:  "Theoretical Physics"
+title:  "Publications: Theoretical Physics"
 teaser: Published papers, conference proceedings and lecture notes
 
 ---
