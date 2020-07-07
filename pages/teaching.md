@@ -12,21 +12,21 @@ The course begins by motivating the role of causal inference in biomedicine usin
 
 Given the broad expertise of the audience, the course is designed to contain both biomedical motivations and examples as well as quantitative information and formulae. One of the goals of this course is to encourage interactive discussions amongst biologists and computer scientists across IGMM and the School of Informatics, particularly because Causality is an area that requires strong collaborations between the two sides.
 
-<u>Overview of the course:</u>
+<strong>Overview of the course:</strong>
 
-Estimating causal effects
+<u>Estimating causal effects:</u>
 1. Randomised trials vs observational data
 2. Causal Effect Estimation
 3. Rubin: Potential outcomes framework (observed & unobserved confounders)
 4. Pearl: Structural causal models framework (observed & unobserved confounders)
 5. Computer simulations and numerical exercises: Introducing Microsoft DoWhy and CausalGraphicalModels Python package
 
-Causal Discovery and Machine Learning
+<u>Causal Discovery and Machine Learning:</u>
 1. Constraint-based algorithms and Score-based algorithms
 2. Connections to Machine Learning and AI
 
 
-<u>Learning outcomes:</u>
+<strong>Learning outcomes:</strong>
 Be able to find and follow papers in causal analysis techniques 
 Understand which area of causal analysis the papers apply to
 Be able to apply causal techniques to a particular problem of interest 
