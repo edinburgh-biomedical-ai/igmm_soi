@@ -15,17 +15,17 @@ Given the broad expertise of the audience, the course is designed to contain bot
 Overview of the course:
 
 Estimating causal effects
-Randomised trials vs observational data
-Causal Effect Estimation
-Rubin’s framework: Potential outcomes (observed confounders)
-Pearl’s framework: Structural causal models (observed confounders)
-Rubin's framework with unobserved confounders 
-Pearl’s framework with unobserved confounders
-Computer simulations and numerical exercises: Introducing Microsoft DoWhy and CausalGraphicalModels Python package
+1. Randomised trials vs observational data
+2. Causal Effect Estimation
+3. Rubin’s framework: Potential outcomes (observed confounders)
+4. Pearl’s framework: Structural causal models (observed confounders)
+5. Rubin's framework with unobserved confounders 
+6. Pearl’s framework with unobserved confounders
+7. Computer simulations and numerical exercises: Introducing Microsoft DoWhy and CausalGraphicalModels Python package
 
 Causal Discovery and Machine Learning
-Constraint-based algorithms and Score-based algorithms
-Connections to Machine Learning and AI
+1. Constraint-based algorithms and Score-based algorithms
+2. Connections to Machine Learning and AI
 
 
 Learning outcomes: 
