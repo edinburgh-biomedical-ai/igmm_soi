@@ -6,7 +6,7 @@ teaser: "Undergradute, MSc and PhD training"
 permalink: "/teaching/"
 
 ---
-Causality in Biomedicine is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
+<strong>Causality in Biomedicine</strong> is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
 
 The course begins by motivating the role of causal inference in biomedicine using three different major areas where causal techniques are currently being actively developed and applied: Personalised Medicine, Genome-Wide Association Studies (GWAS) and Gene Networks. This is followed by mathematically demonstrating why inferring causality directly from observational data using standard statistical estimators leads to biased or incorrect estimates for the quantities of interest and illustrate complications that it may lead to in a simple example. The course is split into two main parts: (i) Causal Effect Estimation and (ii) Causal Discovery and its relation to Machine Learning and AI. I will discuss Causal Effect Estimation using two major frameworks: (i) the potential outcomes framework due to Rubin, and (ii) the Structural Causal Models (SCMs) due to Pearl. Finally, algorithms in Causal Discovery and recent Machine Learning developments in this area are discussed. 
 
