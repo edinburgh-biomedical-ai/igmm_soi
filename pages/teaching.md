@@ -2,7 +2,7 @@
 layout: page
 subheadline:
 title:  "Teaching"
-teaser: "Undergradute, MSc and PhD training"
+teaser: 
 permalink: "/teaching/"
 
 ---
