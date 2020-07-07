@@ -27,11 +27,11 @@ Given the broad expertise of the audience, the course is designed to contain bot
 
 
 <strong>Learning outcomes:</strong>
-Be able to find and follow papers in causal analysis techniques 
-Understand which area of causal analysis the papers apply to
-Be able to apply causal techniques to a particular problem of interest 
-Use causal analysis packages in R and Python, for example, Microsoft DoWhy and CausalGraphicalModels
-Be able to modify a current technique in order to apply it to a particular problem of interest 
-For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
+1. Be able to find and follow papers in causal analysis techniques 
+2. Understand which area of causal analysis the papers apply to
+3. Be able to apply causal techniques to a particular problem of interest 
+4. Use causal analysis packages in R and Python, for example, Microsoft DoWhy and CausalGraphicalModels
+5. Be able to modify a current technique in order to apply it to a particular problem of interest 
+6. For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
 
 [1]: https://github.com/avakhamseh/Causality_in_Biomedicine_Lectures
