@@ -2,7 +2,7 @@
 layout: page
 subheadline:
 title:  "Teaching"
-teaser: 
+teaser: Causality in Biomedicine
 permalink: "/teaching/"
 
 ---
