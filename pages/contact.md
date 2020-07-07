@@ -9,7 +9,7 @@ permalink: "/contact/"
 
 Most of our PhD projects are joint between the [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2] (SoI), University of Edinburgh. Depending on your interests and background, you could consider applying via IGMM or SoI. 
 
-To discuss projects, including PhD, MSc, BSc (Hons) or summer projects, contact Ava Khamseh directly, including a short statement about your reserach interests and CV. 
+To discuss PhD, MSc, BSc (Hons) or summer projects, contact Ava Khamseh directly, including a short statement about your reserach interests and CV. 
 
 Email: ava.khamseh@ed.ac.uk
 
