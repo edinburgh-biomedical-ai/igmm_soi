@@ -57,11 +57,13 @@ P. Boyle, L. Del Debbio, N. Garron, A. Juettner, A. Khamseh, M. Marinkovic, F. S
 
 [<strong>Energy Levels Of Hydrogen Atom Using Ladder Operators</strong>][1]
 
-Special relativity postulates the invariance of physical phenomena under the Poincaré group. As a consequence elementary states in high-energy physics are classified by its irreducible representations. In the following, the classification of the representations of the Poincaré group and the corresponding physical states have been studied from two different points of view: Quantum mechanics and Field Theory. (For Bibliography see end of Chapter 3)
+In the quantum mechanics courses, the energy levels of the Simple Harmonic Oscillator (SHO) are derived using both the Schrödinger wave function and the Ladder operator methods, while the energy levels of the Hydrogen atom are examined using the former method only. Here we derive the same results for the Hydrogen atom by using the Ladder operator method.
 
 A. Khamseh, Supervisor: B. Pendleton 
 
 [<strong>Representations of the Poincare Group</strong>][2]
+
+Special relativity postulates the invariance of physical phenomena under the Poincaré group. As a consequence elementary states in high-energy physics are classified by its irreducible representations. In the following, the classification of the representations of the Poincaré group and the corresponding physical states have been studied from two different points of view: Quantum mechanics and Field Theory. 
 
 A. Khamseh, Supervisor: L. Del Debbio
 
