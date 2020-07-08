@@ -7,7 +7,7 @@ teaser:
 ---
 <h3>Preprints</h3>
 
-<strong>Higher-order interactions in statistical physics and machine learning: A non-parametric solution to the inverse problem</strong><em>Preprint (2020)</em>
+<strong>Higher-order interactions in statistical physics and machine learning: A non-parametric solution to the inverse problem</strong>, <em>Preprint (2020)</em>
 
 S. V. Beentjes, A. Khamseh
 
