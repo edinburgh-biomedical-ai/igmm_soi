@@ -53,11 +53,23 @@ P. Boyle, L. Del Debbio, N. Garron, A. Juettner, A. Khamseh, M. Marinkovic, F. S
 
 
 
-
-
-
-
-
-
-
 <h3>Lecture notes</h3><br/>
+
+[<strong>Energy Levels Of Hydrogen Atom Using Ladder Operators</strong>][1]
+
+A. Khamseh, Supervisor: B. Pendleton 
+
+[<strong>Representations of the Poincare Group</strong>][2]
+
+A. Khamseh, Supervisor: L. Del Debbio
+
+[<strong>Derivation of Virasoro Algebra from Dilatation Invariance</strong>][3]
+
+A. Khamseh, Supervisor: L. Del Debbio
+
+ [1]: https://github.com/avakhamseh/physics_notes/blob/master/Poincare_Extended.pdf
+ [2]: https://github.com/avakhamseh/physics_notes/blob/master/qm2.pdf
+ [3]: https://github.com/avakhamseh/physics_notes/blob/master/Virasoro_MQFT.pdf
+ 
+
+
