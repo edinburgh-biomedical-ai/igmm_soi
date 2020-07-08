@@ -8,8 +8,8 @@ permalink: "/publications/"
 ---
 Our cross-disciplinary work spans the following 3 main areas:
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Biomedicine ›</a> &nbsp; &nbsp;
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Statitics and Machine Learning ›</a> &nbsp; &nbsp;
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Physics ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Biomedicine ›</a> &nbsp; &nbsp;
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Statitics and Machine Learning ›</a> &nbsp; &nbsp;
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Physics ›</a>
 
 
