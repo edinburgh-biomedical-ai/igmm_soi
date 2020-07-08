@@ -57,6 +57,8 @@ P. Boyle, L. Del Debbio, N. Garron, A. Juettner, A. Khamseh, M. Marinkovic, F. S
 
 [<strong>Energy Levels Of Hydrogen Atom Using Ladder Operators</strong>][1]
 
+Special relativity postulates the invariance of physical phenomena under the Poincaré group. As a consequence elementary states in high-energy physics are classified by its irreducible representations. In the following, the classification of the representations of the Poincaré group and the corresponding physical states have been studied from two different points of view: Quantum mechanics and Field Theory. (For Bibliography see end of Chapter 3)
+
 A. Khamseh, Supervisor: B. Pendleton 
 
 [<strong>Representations of the Poincare Group</strong>][2]
@@ -65,11 +67,15 @@ A. Khamseh, Supervisor: L. Del Debbio
 
 [<strong>Derivation of Virasoro Algebra from Dilatation Invariance</strong>][3]
 
+This mini-project is based on Martin Lüscher's talk (Munich, December 1988). For the original material please refer to [Martin Lüscher's own webpage][4]. Here I have tried to include the details of most derivations as well as some explanations that might be beneficial for other students. The aim here is to show that in 2-dimensions, dilatation invariance plus the existence of an energy-momentum tensor implies general conformal invariance on the level of the field algebra. 
+
 A. Khamseh, Supervisor: L. Del Debbio
 
  [1]: https://github.com/avakhamseh/physics_notes/blob/master/qm2.pdf
  [2]: https://github.com/avakhamseh/physics_notes/blob/master/Poincare_Extended.pdf
  [3]: https://github.com/avakhamseh/physics_notes/blob/master/Virasoro_MQFT.pdf
+ [4]: http://luscher.web.cern.ch/luscher/talks/Virasoro.pdf
+
  
 
 
