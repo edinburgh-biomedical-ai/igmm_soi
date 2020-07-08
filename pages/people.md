@@ -7,3 +7,4 @@ permalink: "/people/"
 
 ---
 Ava Khamseh (Group Leader)
+Abel Jansma (PhD student)
