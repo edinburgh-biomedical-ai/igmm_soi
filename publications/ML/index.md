@@ -5,13 +5,13 @@ title:  "Publications: Statistics & ML"
 teaser: 
 
 ---
-<h3>Preprints</h3>\
+<h3>Preprints</h3></br>
 
 <strong>Higher-order interactions in statistical physics and machine learning: A non-parametric solution to the inverse problem</strong>, <em>Preprint (2020)</em>
 
 S. V. Beentjes, A. Khamseh
 
-<h3>Published</h3>\
+<h3>Published</h3></br>
 
 <strong>Machine learning determination of dynamical parameters: The Ising model case</strong>, <em>Physical Review B (2019)</em>
 
