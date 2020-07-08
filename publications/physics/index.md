@@ -67,8 +67,8 @@ A. Khamseh, Supervisor: L. Del Debbio
 
 A. Khamseh, Supervisor: L. Del Debbio
 
- [1]: https://github.com/avakhamseh/physics_notes/blob/master/Poincare_Extended.pdf
- [2]: https://github.com/avakhamseh/physics_notes/blob/master/qm2.pdf
+ [1]: https://github.com/avakhamseh/physics_notes/blob/master/qm2.pdf
+ [2]: https://github.com/avakhamseh/physics_notes/blob/master/Poincare_Extended.pdf
  [3]: https://github.com/avakhamseh/physics_notes/blob/master/Virasoro_MQFT.pdf
  
 
