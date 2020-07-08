@@ -11,6 +11,11 @@ teaser:
 
 P. Boyle, L. Del Debbio, A. Juettner, A. Khamseh, F. Sanfilippo, T. Tsang, (RBC and UKQCD Collaborations)
 
+<strong>A massive momentum-subtraction scheme</strong>, <em>Physical Review D (2017)</em>
+
+P. Boyle, L. Del Debbio, A. Khamseh
+
+
 <h3>Conference Proceedings</h3><br/>
 
 
