@@ -5,7 +5,7 @@ title:  "Publications: Biomedicine"
 teaser: 
 
 ---
-<!--- <strong>Preprints</strong> --->
+<!--- <h3>Preprints</h3> --->
 
 <!--- <h3>Published Articles</h3> --->
 
