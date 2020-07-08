@@ -6,8 +6,8 @@ teaser: "Group members test"
 permalink: "/people/"
 
 ---
-Ava Khamseh: Group Leader & Lecturer in Biomedical Artifical Intelligence<br/>
+<strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence<br/>
 
-Abel Jansma: PhD student, jointly supervised with Chris Ponting (IGMM) and Luigi Del Debbio (School of Physics)<br/>
+<strong>Abel Jansma:</strong> PhD student, jointly supervised with Chris Ponting (IGMM) and Luigi Del Debbio (School of Physics)<br/>
 
 
