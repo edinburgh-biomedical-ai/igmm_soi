@@ -25,7 +25,7 @@ P. Boyle, N. Garron, R. J. Hudspith, A. Juettner, J. Kettle,  A. Khamseh, J. T. 
 
 <strong>Heavy Domain Wall Fermions: The RBC and UKQCD charm physics program</strong>, <em>PoS LATTICE 2017 (2018)</em>
 
-\cvitem{}{P. Boyle, L. Del Debbio, A. Juettner, A. Khamseh, T. Tsang, O. Witzel, (RBC and UKQCD Collaborations)
+P. Boyle, L. Del Debbio, A. Juettner, A. Khamseh, T. Tsang, O. Witzel, (RBC and UKQCD Collaborations)
 
 <strong>BSM Kaon Mixing at the Physical Point</strong>, <em>PoS LATTICE 2017 (2018)</em>
 
