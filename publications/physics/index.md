@@ -2,11 +2,11 @@
 layout: page
 subheadline:
 title:  "Publications: Theoretical Physics"
-teaser: Published papers, conference proceedings and lecture notes
+teaser: 
 
 ---
-<strong>Published Articles</strong> 
+<h3>Published Articles</h3>
 
-<strong>Conference Proceedings</strong> 
+<h3>Conference Proceedings</h3>
 
-<strong>Lecture notes</strong> 
+<h3>Lecture notes</h3>
