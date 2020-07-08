@@ -11,7 +11,7 @@ Most of our PhD projects are joint between the [Institute of Genetics & Molecula
 
 To discuss PhD, MSc, BSc (Hons) or summer projects, contact Ava Khamseh directly, including a short statement about your research interests and CV. 
 
-Email: ava.khamseh -at- ed dot ac dot uk
+Email:
 
  [1]: https://www.ed.ac.uk/igmm
  [2]: https://www.ed.ac.uk/informatics
