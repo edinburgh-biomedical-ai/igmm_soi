@@ -6,5 +6,6 @@ teaser: "Group members test"
 permalink: "/people/"
 
 ---
-Ava Khamseh (Group Leader)
+Ava Khamseh (Group Leader)<br/>
+
 Abel Jansma (PhD student)
