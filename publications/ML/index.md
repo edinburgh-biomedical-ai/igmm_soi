@@ -2,7 +2,7 @@
 layout: page
 subheadline:
 title:  "Publications: Statistics & ML"
-teaser: Published papers and preprints
+teaser: 
 
 ---
 <h3>Preprints</h3>
@@ -11,8 +11,9 @@ teaser: Published papers and preprints
 
 S. V. Beentjes, A. Khamseh
 
+<h3>Published</h3>
+
 <strong>Machine learning determination of dynamical parameters: The Ising model case</strong>, <em>Physical Review B (2019)</em>
 
 G. Cossu, L. Del Debbio, T. Giani, A. Khamseh, M. Wilson
 
-<h3>Published Articles</h3>
