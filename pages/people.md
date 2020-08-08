@@ -6,7 +6,7 @@ teaser:
 permalink: "/people/"
 
 ---
-<strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence<br/>, [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2]
+<strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence, [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2]<br/>
 
 <strong>Abel Jansma:</strong> PhD student, jointly supervised with Chris Ponting (IGMM) and Luigi Del Debbio (School of Physics)<br/>
 
