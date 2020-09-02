@@ -6,7 +6,6 @@ teaser: "Our wetlab experiments have a molecular cancer biology focus."
 image:
     title: louis-reed-pwcKF7L4-no-unsplash.jpg
     caption: An unsplash photo
-    caption_url: https://unsplash.com/photos/WiONHd_zYI4
 
 ---
 Currently, there is a lack of quantitative information regarding molecular mechanisms in early oncogenesis. 
