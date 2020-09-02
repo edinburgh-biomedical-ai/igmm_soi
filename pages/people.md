@@ -10,6 +10,10 @@ permalink: "/people/"
 
 <strong>Abel Jansma:</strong> PhD student, jointly supervised with Chris Ponting (IGMM) and Luigi Del Debbio (School of Physics)<br/>
 
+<strong>Yuelin Yao</strong> PhD student<br/>
+
+<strong>Aitana Verdu Schlie</strong> Summer student<br/>
+
 
  [1]: https://www.ed.ac.uk/igmm
  [2]: https://www.ed.ac.uk/informatics
