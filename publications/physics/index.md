@@ -59,19 +59,19 @@ P. Boyle, L. Del Debbio, N. Garron, A. Juettner, A. Khamseh, M. Marinkovic, F. S
 
 In the quantum mechanics courses, the energy levels of the Simple Harmonic Oscillator (SHO) are derived using both the Schrödinger wave function and the Ladder operator methods, while the energy levels of the Hydrogen atom are examined using the former method only. Here we derive the same results for the Hydrogen atom by using the Ladder operator method.
 
-A. Khamseh, Supervisor: B. Pendleton 
+A. Khamseh, B. Pendleton 
 
 [<strong>Representations of the Poincare Group</strong>][5]
 
 Special relativity postulates the invariance of physical phenomena under the Poincaré group. As a consequence elementary states in high-energy physics are classified by its irreducible representations. In the following, the classification of the representations of the Poincaré group and the corresponding physical states have been studied from two different points of view: Quantum mechanics and Field Theory. 
 
-A. Khamseh, Supervisor: L. Del Debbio
+A. Khamseh, L. Del Debbio
 
 [<strong>Derivation of Virasoro Algebra from Dilatation Invariance</strong>][6]
 
 This mini-project is based on Martin Lüscher's talk (Munich, December 1988). For the original material please refer to [Martin Lüscher's own webpage][7]. Here I have tried to include the details of most derivations as well as some explanations that might be beneficial for other students. The aim here is to show that in 2-dimensions, dilatation invariance plus the existence of an energy-momentum tensor implies general conformal invariance on the level of the field algebra. 
 
-A. Khamseh, Supervisor: L. Del Debbio
+A. Khamseh, L. Del Debbio
 
  [1]: https://doi.org/10.1103/PhysRevB.100.064304
  [2]: https://doi.org/10.1007/JHEP12(2017)008
