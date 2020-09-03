@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Wet Lab"
   url: 'https://edinburgh-biomedical-ai.github.io/igmm_soi/research/wetlab/'
-  image: teaching_mini.PNG
+  image: wetlab_mini.PNG
   text: 'We design experiments in molecular cancer biology to model the process of cancer initiation (<em>oncogenesis</em>). Our aim is to trace DNA and RNA trajectories at cellular resolution and quantify necessary and sufficient early conditions for cancer to occur.
   We closely collaborate with experimental biologists on both designing and performing the experiments, throughtout the data generation process.'
 widget2:
