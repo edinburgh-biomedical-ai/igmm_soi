@@ -5,9 +5,7 @@ title:  "Dry Lab"
 teaser: "One of the aims of biomedical genomics is to determine causal molecular interactions underlying biological processes. These interactions can be highly complex, involving many dependent variables constituting a given biological system of interest. Quantifying interactions, beyond extracting their magnitude, and moving towards obtaining information on their directionality (causality) requires well-designed experiments and/or large-scale individual-level biomedical data."
 
 image:
-    title: tianyi-ma-WiONHd_zYI4-unsplash.jpg
-    caption: An unsplash photo
-    caption_url: https://unsplash.com/photos/WiONHd_zYI4
+    title: drylab_full.JPG
 
 ---
 One of our current research interests involves developing causal inference, probabilistic and machine learning techniques to predict higher-order interactions amongst variables in biomedical data. We import and develop methods that are generally applicable to different biomedical datasets. Since such data typically involves many dependent variables that influence each other, inferring unbiased causal estimates is a challenging task. However, it has been made more accessible via the framework of Targeted Learning, a subfield of mathematical statistics, created by Mark van der Laan, Professor of Biostatistics and Statistics at UC Berkeley. Targeted Learning demands that subject experts define their target quantity of interest objectively (non-parametrically), whilst relying on as few assumptions as possible.
