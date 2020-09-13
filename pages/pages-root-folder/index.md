@@ -30,3 +30,4 @@ permalink: /index.html
 homepage: true
 ---
 
+> <span class="teaser">Addressing challenges in modern quantitative biomedicine requires working across different disciplines and bringing in knowledge from various fields. We collaborate closely with experts from experimental biology, computational biology, mathematics, physics and machine learning. Simultaneously creating experimental designs to generate data whilst developing quantitative methods in tandem to derive meaning from the data, drives research & training in our group.</span><cite>Ava Khamseh, Group Leader/Lecturer in Biomedical AI</cite>
