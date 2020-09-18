@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: HomepageBanner_3notext.png
+  image_fullwidth: HomepageBanner_4.png
 widget1:
   title: "Wet Lab"
   url: 'https://edinburgh-biomedical-ai.github.io/igmm_soi/research/wetlab/'
