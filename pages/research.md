@@ -4,8 +4,6 @@ show_meta: false
 title: "Research Overview"
 subheadline: ""
 teaser: "Currently, our research focuses on two main areas of cancer biology & causality in population biomedicine:"
-header:
-   image_fullwidth: "V5_SHRUNKHomepage_Banner.png"
 
 permalink: "/research/"
 ---

@@ -4,8 +4,6 @@ subheadline:
 title:  "People"
 teaser: 
 permalink: "/people/"
-header:
-   image_fullwidth: "V5_SHRUNKHomepage_Banner.png"
 
 
 ---
