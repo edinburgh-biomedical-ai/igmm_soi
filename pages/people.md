@@ -4,7 +4,7 @@ subheadline:
 title:  "People"
 teaser: 
 header:
-   image_fullwidth: "V2_Small_Banner.png"
+   image_halfwidth: "V2_Small_Banner.png"
 permalink: "/people/"
 
 ---
