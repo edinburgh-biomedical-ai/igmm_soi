@@ -42,7 +42,7 @@ urlimg: 'https://edinburgh-biomedical-ai.github.io/igmm_soi/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "nologo_small.png"
+logo: "nologo.png"
 
 # Plugins
 plugins:
