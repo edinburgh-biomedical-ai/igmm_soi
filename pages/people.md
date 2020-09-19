@@ -6,13 +6,30 @@ teaser:
 permalink: "/people/"
 
 ---
-<strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence, [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2]<br/>
+<!-- <strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence, [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2]<br/> -->
 
-<strong>Abel Jansma:</strong> PhD student, jointly supervised with Chris Ponting (IGMM) and Luigi Del Debbio (School of Physics)<br/>
+<table>
+  <tr>
+    <td> <img src="../images/GroupLeader_biomedAI.jpg"  alt="Ava Khamseh" width = 150px height = 100px ></td>
 
-<strong>Yuelin Yao</strong> PhD student<br/>
+    <td><strong>Ava Khamseh:</strong> Group Leader <br/> Lecturer in Biomedical Artificial Intelligence <br/> Institute of Genetics & Molecular Medicine (IGMM)<br/> School of Informatics, Edinburgh University</td>
+   </tr> 
+   <tr>
+      <td><img src="../images/group_member.png" alt="Abel Jansma" width = 150px height = 100px></td>
 
-<strong>Aitana Verdu Schlie</strong> Summer student<br/>
+      <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)</td>
+  </tr>
+     <tr>
+      <td><img src="../images/../images/group_member.png" alt="Yuelin Yao" width = 150px height = 100px></td>
+
+      <td><strong>Yuelin Yao</strong>: PhD student</td>
+  </tr>
+     <tr>
+      <td><img src="../images/../images/group_member.png" alt="Aitana Verdu Schlie" width = 150px height = 100px></td>
+
+      <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+  </tr>
+</table>
 
 
  [1]: https://www.ed.ac.uk/igmm
