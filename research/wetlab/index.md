@@ -4,7 +4,7 @@ subheadline:
 title:  "Wet Lab Experiments"
 teaser: "Our wetlab experiments have a molecular cancer biology focus."
 image:
-    title: wetlab_full.JPG
+    title: V2_Wetlab.jpg
 
 ---
 Currently, there is a lack of quantitative information regarding molecular mechanisms in early oncogenesis. 

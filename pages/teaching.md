@@ -6,7 +6,7 @@ teaser: Causality in Biomedicine
 permalink: "/teaching/"
 
 image:
-    title: teaching_full.JPG
+    title: V2_Teaching.jpg
     
 ---
 <strong>Causality in Biomedicine</strong> is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
