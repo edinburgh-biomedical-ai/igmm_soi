@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Dry Lab"
   url: 'https://edinburgh-biomedical-ai.github.io/igmm_soi/research/drylab/'
-  image: drylab_mini.PNG
+  image: Drylab2_Mini-images.png
   text: '1. <strong><u>Cancer biology</u></strong>: We design and/or apply computational methods to analyse and predict (i) mutational (DNA) interactions, and (ii) transcriptional (RNA) trajectories, during cancer initiation <br/>2. <strong><u>Population biology</u></strong>: We develop causal (non-)parametric stastitical and machine learning techniques for applications to large-scale biomedical data, such as scRNA-seq and the UK Biobank.'
 widget3:
   title: "Teaching"
