@@ -3,6 +3,8 @@ layout: page
 subheadline:
 title:  "People"
 teaser: 
+header:
+   image_fullwidth: "V2_Small Banner.png"
 permalink: "/people/"
 
 ---
