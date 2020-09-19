@@ -4,6 +4,9 @@ subheadline:
 title:  "People"
 teaser: 
 permalink: "/people/"
+header:
+   image_fullwidth: "V5_SHRUNKHomepage_Banner.png"
+
 
 ---
 <!-- <strong>Ava Khamseh:</strong> Group Leader & Lecturer in Biomedical Artifical Intelligence, [Institute of Genetics & Molecular Medicine][1] (IGMM) and the [School of Informatics][2]<br/> -->
