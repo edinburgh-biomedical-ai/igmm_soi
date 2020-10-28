@@ -7,7 +7,7 @@ teaser:
 ---
 <h3>Preprints</h3><br/>
 
-<strong>Higher-order interactions in statistical physics and machine learning: A non-parametric solution to the inverse problem</strong>, <em>Preprint (2020)</em>
+<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>, <em>Accepted at Physical Review E (2020)</em>
 
 S. V. Beentjes, A. Khamseh
 
