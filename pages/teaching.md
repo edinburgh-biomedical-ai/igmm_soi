@@ -30,13 +30,6 @@ The course begins by motivating the role of causal inference in biomedicine usin
 2. Connections to Machine Learning and AI -->
 
 
-<strong>Learning outcomes:</strong>
-1. Be able to find and follow papers in causal analysis techniques 
-2. Understand which area of causal analysis the papers apply to
-3. Be able to apply causal techniques to a particular problem of interest 
-4. Use causal analysis packages in R and Python, for example, Microsoft DoWhy and CausalGraphicalModels
-5. Be able to modify a current technique in order to apply it to a particular problem of interest 
-6. For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
 
 <table class="center">
 <thead>
@@ -64,5 +57,11 @@ The course begins by motivating the role of causal inference in biomedicine usin
  </tbody>
 </table>
 
-
+<strong>Learning outcomes:</strong>
+1. Be able to find and follow papers in causal analysis techniques 
+2. Understand which area of causal analysis the papers apply to
+3. Be able to apply causal techniques to a particular problem of interest 
+4. Use causal analysis packages in R and Python, for example, Microsoft DoWhy and CausalGraphicalModels
+5. Be able to modify a current technique in order to apply it to a particular problem of interest 
+6. For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
 
