@@ -14,7 +14,7 @@ image:
      <tr>
       <td>23/Oct/2020</td>
 
-      <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+      <td>Randomised experiments vs observational data </td>
   </tr>
 </table>
 
