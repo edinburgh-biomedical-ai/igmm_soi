@@ -37,4 +37,13 @@ Given the broad expertise of the audience, the course is designed to contain bio
 5. Be able to modify a current technique in order to apply it to a particular problem of interest 
 6. For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
 
+<table>
+     <tr>
+      <td>23/Oct/2020</td>
+      <td><strong>randomised experiments vs observational data, introduction to the Rubin-Neyman potential outcomes framework</td>
+     <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1</a><br /></td>
+  </tr>
+</table>
+
+
 [1]: https://github.com/avakhamseh/Causality_in_Biomedicine_Lectures
