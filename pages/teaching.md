@@ -46,16 +46,15 @@ The course begins by motivating the role of causal inference in biomedicine usin
       <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td>
   </tr>
-  <tbody>
      <tr>
       <td>30/Oct/2020</td>
       <td> Confounders: Regression adjustment & propensity score <br/> Sensitivity analysis </td>
 <!--       <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td> -->
   </tr>
- </tbody>
- </tbody>
+ </tbody> 
 </table>
+
 
 <strong>Learning outcomes:</strong>
 1. Be able to find and follow papers in causal analysis techniques 
