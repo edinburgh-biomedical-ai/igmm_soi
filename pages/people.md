@@ -29,6 +29,7 @@ permalink: "/people/"
       <td><img src="../images/../images/group_member.png" alt="Aitana Verdu Schlie" width = 150px height = 100px></td>
 
       <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+     <td> <a href="/slides/Lec1_Introduction.pdf" download="">Slides</a><br /></td>
   </tr>
 </table>
 
