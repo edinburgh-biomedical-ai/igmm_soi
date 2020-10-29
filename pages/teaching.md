@@ -9,15 +9,17 @@ image:
     title: V2_Teaching.jpg
     
 ---
-<strong>Causality in Biomedicine</strong> is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
 
 <table>
-    <tr>
-     	<td>23/Oct/2020</td>
-    	<td><strong>randomised experiments vs observational data, introduction to the Rubin-Neyman potential outcomes framework</td>
-    	<td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1</a><br /></td>
-  	</tr>
+     <tr>
+      <td><img src="../images/../images/group_member.png" alt="Aitana Verdu Schlie" width = 150px height = 100px></td>
+
+      <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+  </tr>
 </table>
+
+<strong>Causality in Biomedicine</strong> is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
+
 
 The course begins by motivating the role of causal inference in biomedicine using three different major areas where causal techniques are currently being actively developed and applied: Personalised Medicine, Genome-Wide Association Studies (GWAS) and Gene Networks. This is followed by mathematically demonstrating why inferring causality directly from observational data using standard statistical estimators leads to biased or incorrect estimates for the quantities of interest and illustrate complications that may arise in a simple example. The course is split into two main parts: (i) Causal Effect Estimation and (ii) Causal Discovery and its relation to Machine Learning and AI. Causal Effect Estimation is discussed using two major frameworks: (i) the potential outcomes framework due to Rubin, and (ii) the Structural Causal Models (SCMs) due to Pearl. The second part of the course focuses on algorithms in Causal Discovery and recent Machine Learning developments in this area.
 
