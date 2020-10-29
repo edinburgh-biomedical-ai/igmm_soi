@@ -12,9 +12,9 @@ image:
 
 <table>
      <tr>
-      <td><img src="../images/../images/group_member.png" alt="Aitana Verdu Schlie" width = 150px height = 100px></td>
+      <td>23/Oct/2020</td>
 
-      <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+      <td><strong>randomised experiments vs observational data, introduction to the Rubin-Neyman potential outcomes framework</td>
   </tr>
 </table>
 
