@@ -35,7 +35,7 @@ The course begins by motivating the role of causal inference in biomedicine usin
 
 Given the broad expertise of the audience, the course is designed to contain biomedical motivations and examples as well as quantitative information and formulae. One of the goals of this course is to encourage interactive discussions amongst biologists and computer scientists across IGMM and the School of Informatics, particularly because Causality is an area that requires strong collaborations between the two sides.
 
-<strong>Overview of the course:</strong>
+<!-- <strong>Overview of the course:</strong>
 
 <u>Estimating causal effects:</u>
 1. Randomised trials vs observational data
@@ -46,7 +46,7 @@ Given the broad expertise of the audience, the course is designed to contain bio
 
 <u>Causal Discovery and Machine Learning:</u>
 1. Constraint-based algorithms and Score-based algorithms
-2. Connections to Machine Learning and AI
+2. Connections to Machine Learning and AI -->
 
 
 <strong>Learning outcomes:</strong>
@@ -56,5 +56,3 @@ Given the broad expertise of the audience, the course is designed to contain bio
 4. Use causal analysis packages in R and Python, for example, Microsoft DoWhy and CausalGraphicalModels
 5. Be able to modify a current technique in order to apply it to a particular problem of interest 
 6. For quantitative individuals in the audience: A foundation to start developing techniques in causal inference and causal discovery
-
-[1]: https://github.com/avakhamseh/Causality_in_Biomedicine_Lectures
