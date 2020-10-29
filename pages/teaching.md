@@ -13,8 +13,8 @@ image:
 <table>
      <tr>
       <td>23/Oct/2020</td>
-
-      <td>Randomised experiments vs observational data </td>
+      <td>Randomised experiments vs observational data <br/> Rubin-Neyman potential outcomes framework </td>
+      <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1</a><br /></td>
   </tr>
 </table>
 
