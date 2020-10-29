@@ -22,10 +22,18 @@ image:
 </thead>
 <tbody>
      <tr>
-      <td>23/Oct/2020</td>
-      <td>Randomised experiments vs observational data <br/> Rubin-Neyman potential outcomes framework </td>
+      <td>30/Oct/2020</td>
+      <td> Dealing with confounders: Regression adjustment & propensity score <br/> Sensitivity analysis </td>
       <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td>
+  </tr>
+ </tbody>
+ <tbody>
+     <tr>
+      <td>23/Oct/2020</td>
+      <td>Randomised experiments vs observational data <br/> Rubin-Neyman potential outcomes framework </td>
+<!--       <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1 slides</a><br />
+      <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td> -->
   </tr>
  </tbody>
 </table>
