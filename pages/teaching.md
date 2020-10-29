@@ -11,11 +11,21 @@ image:
 ---
 
 <table>
+<thead>
+  <tr>
+    <th>Date</th>
+    <th>Topics</th>
+    <th>Lecture</th>
+  </tr>
+</thead>
+<tbody>
      <tr>
       <td>23/Oct/2020</td>
       <td>Randomised experiments vs observational data <br/> Rubin-Neyman potential outcomes framework </td>
-      <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1</a><br /></td>
+      <td><a href="/slides/Lec1_Introduction.pdf" download="">Lecture 1 slides</a><br />
+      <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td>
   </tr>
+ </tbody>
 </table>
 
 <strong>Causality in Biomedicine</strong> is a course aimed at biologists, computer scientists and more broadly researchers from quantitative backgrounds. Lecture slides (winter 2020) can be found [here][1].
