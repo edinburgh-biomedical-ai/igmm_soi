@@ -49,6 +49,7 @@ The course begins by motivating the role of causal inference in biomedicine usin
      <tr>
       <td>30/Oct/2020</td>
       <td> Confounders: Regression adjustment & propensity score <br/> Sensitivity analysis </td>
+      <td><a href="/slides/Lec2_Rubin_potential_outcomes.pdf" download="">Lecture 2 slides</a><br />
 	  <td></td>
   </tr>
  </tbody> 
