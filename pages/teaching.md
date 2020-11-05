@@ -51,7 +51,12 @@ The course begins by motivating the role of causal inference in biomedicine usin
       <td> Confounders: Regression adjustment & propensity score <br/> Sensitivity analysis </td>
       <td><a href="/slides/Lec2_Rubin_potential_outcomes.pdf" download="">Lecture 2 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td>
-	  <td></td>
+  </tr>
+    <tr>
+      <td>6/Nov/2020</td>
+      <td> Confounders: Instrumental variable (IV) <br/> Intro to causal graphical models </td>
+      <td><a href="/slides/Lec2_Rubin_potential_outcomes.pdf" download="">Lecture 2 slides</a><br />
+      <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+1/1_kliyh0nh/186508923">Video</a></td>
   </tr>
  </tbody> 
 </table>
