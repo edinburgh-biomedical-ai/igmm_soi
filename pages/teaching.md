@@ -55,6 +55,7 @@ The course begins by motivating the role of causal inference in biomedicine usin
     <tr>
       <td>6/Nov/2020</td>
       <td> Confounders: Instrumental variable (IV) <br/> Intro to causal graphical models </td>
+      <td></td>
   </tr>
  </tbody> 
 </table>
