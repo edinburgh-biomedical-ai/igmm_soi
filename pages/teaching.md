@@ -55,6 +55,11 @@ The course begins by motivating the role of causal inference in biomedicine usin
     <tr>
       <td>6/Nov/2020</td>
       <td> Confounders: Instrumental variable (IV) <br/> Intro to causal graphical models </td>
+      <td><a href="/slides/Lec3_IV.pdf" download="">Lecture 3 slides</a><br /></td>
+    </tr>
+      <tr>
+      <td>13/Nov/2020</td>
+      <td> Pearl's back-door criterion <br/> Confounder vs mediator </td>
       <td></td>
   </tr>
  </tbody> 
