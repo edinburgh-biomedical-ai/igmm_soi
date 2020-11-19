@@ -60,7 +60,8 @@ The course begins by motivating the role of causal inference in biomedicine usin
       <tr>
       <td>13/Nov/2020</td>
       <td> Pearl's back-door criterion <br/> Confounder vs mediator </td>
-      <td></td>
+      <td><a href="/slides/Lec4_pearl_do.pdf" download="">Lecture 4 slides</a><br />
+      <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+4/1_dp4nl5eq/186508923">Video</a></td></td>
   </tr>
  </tbody> 
 </table>
