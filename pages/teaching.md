@@ -63,11 +63,16 @@ The course begins by motivating the role of causal inference in biomedicine usin
       <td><a href="/slides/Lec4_pearl_do.pdf" download="">Lecture 4 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+4/1_dp4nl5eq/186508923">Video</a></td>
   </tr>
-        <tr>
+      <tr>
       <td>20/Nov/2020</td>
       <td> Pearl's front-door criterion <br/> unobserved confounders </td>
       <td><a href="/slides/Lec5_FrontDoor.pdf" download="">Lecture 5 slides</a><br />
       <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+5/1_3wcdkfm3/186508923">Video</a></td>
+  </tr>
+  <tr>
+      <td>27/Nov/2020</td>
+      <td> Causal Discovery: <br/> PC Algorithm </td>
+      <td></td>
   </tr>
  </tbody> 
 </table>
