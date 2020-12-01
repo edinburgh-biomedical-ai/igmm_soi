@@ -7,7 +7,7 @@ teaser:
 ---
 <h3>Preprints</h3><br/>
 
-<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>, <em>Accepted at Physical Review E (2020)</em>
+[<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>][2], <em> Physical Review E (2020)</em>
 
 S. V. Beentjes, A. Khamseh
 
@@ -18,3 +18,5 @@ S. V. Beentjes, A. Khamseh
 G. Cossu, L. Del Debbio, T. Giani, A. Khamseh, M. Wilson
 
  [1]: https://doi.org/10.1103/PhysRevB.100.064304
+ [2]: https://doi.org/10.1103/PhysRevE.102.053314
+ 
