@@ -78,7 +78,8 @@ The course begins by motivating the role of causal inference in biomedicine usin
     <tr>
       <td>27/Nov/2020</td>
       <td> Causal Discovery: <br/> FCMs </td>
-      <td></td>
+      <td><a href="/slides/Lec7_ANM.pdf" download="">Lecture 7 slides</a><br />
+      <a href="https://media.ed.ac.uk/media/Causality+in+BiomedicineA+Lecture+7/1_22hygf44/186508923">Video</a></td>
   </tr>
  </tbody> 
 </table>
