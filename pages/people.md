@@ -16,9 +16,9 @@ permalink: "/people/"
     <td><strong>Ava Khamseh:</strong> Group Leader <br/> Lecturer in Biomedical Artificial Intelligence <br/> Institute of Genetics & Molecular Medicine (IGMM)<br/> School of Informatics, Edinburgh University</td>
    </tr> 
    <tr>
-      <td><img src="../images/abel_jansma.png" alt="Abel Jansma" width = 150px height = 100px></td>
+      <td><img src="../images/abel_jansma.jpeg" alt="Abel Jansma" width = 150px height = 100px></td>
 
-      <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)<br /><br /> In my research, I think about genetic interactions.</td>
+      <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)<br /><br /> In my research, I think about genetic interactions. We usually think about interactions between two genes, but what does an interaction between three genes look like? Do these higher-order interactions affect the behaviour of cells? I try to answer these questions by combining intuition from physics, knowledge from biology, and techniques from mathematics. </td>
   </tr>
      <tr>
       <td><img src="../images/../images/group_member.png" alt="Yuelin Yao" width = 150px height = 100px></td>
