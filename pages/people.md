@@ -16,7 +16,7 @@ permalink: "/people/"
     <td><strong>Ava Khamseh:</strong> Group Leader <br/> Lecturer in Biomedical Artificial Intelligence <br/> Institute of Genetics & Molecular Medicine (IGMM)<br/> School of Informatics, Edinburgh University</td>
    </tr> 
    <tr>
-      <td><img src="../images/group_member.png" alt="Abel Jansma" width = 150px height = 100px></td>
+      <td><img src="../images/abel_jansma.png" alt="Abel Jansma" width = 150px height = 100px></td>
 
       <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)</td>
   </tr>
