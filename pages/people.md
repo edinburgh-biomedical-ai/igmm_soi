@@ -18,7 +18,7 @@ permalink: "/people/"
    <tr>
       <td><img src="../images/abel_jansma.jpeg" alt="Abel Jansma" width = 150px height = 100px></td>
 
-      <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)<br /><br /> In my research, I think about genetic interactions. We usually think about interactions between two genes, <br/> but what does an interaction between three genes look like? <br/> Do these higher-order interactions affect the behaviour of cells? <br/> I try to answer these questions by combining intuition from physics, knowledge from biology, and techniques from mathematics. </td>
+      <td><strong>Abel Jansma:</strong> PhD student, jointy supervised with <br/>  Chris Ponting (IGMM, primary supervisor) and <br/> Luigi Del Debbio (School of Physics)<br /><br /> In my research, I think about genetic interactions. <br/> We usually think about interactions between two genes, <br/> but what does an interaction between three genes look like? <br/> Do these higher-order interactions affect the behaviour of cells? <br/> I try to answer these questions by combining intuition from physics, <br/> knowledge from biology, and techniques from mathematics. </td>
   </tr>
      <tr>
       <td><img src="../images/../images/group_member.png" alt="Yuelin Yao" width = 150px height = 100px></td>
