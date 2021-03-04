@@ -26,9 +26,9 @@ permalink: "/people/"
       <td><strong>Yuelin Yao</strong>: PhD student</td>
   </tr>
      <tr>
-      <td><img src="../images/../images/group_member.png" alt="Aitana Verdu Schlie" width = 150px height = 100px></td>
+      <td><img src="../images/../images/group_member.png" alt="Yue Zhang" width = 150px height = 100px></td>
 
-      <td><strong>Aitana Verdu Schlie</strong>: Undergraduate summer student</td>
+      <td><strong>Yue Zhang</strong>: MSc student (SoI)</td>
   </tr>
 </table>
 
