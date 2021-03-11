@@ -30,6 +30,11 @@ permalink: "/people/"
 
       <td><strong>Yue Zhang</strong>: MSc student (SoI)</td>
   </tr>
+       <tr>
+      <td><img src="../images/../images/group_member.png" alt="Olivier Labayle Pabet" width = 150px height = 100px></td>
+
+      <td><strong>Yue Zhang</strong>: Biomedical AI MSc student (SoI)</td>
+  </tr>
 </table>
 
 
