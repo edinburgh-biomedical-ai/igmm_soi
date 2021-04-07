@@ -12,7 +12,7 @@ It is not clear whether every cell that acquires a known set of cancer mutations
 
 > <span class="teaser">We take an integrative and dynamical approach to experimental design & probabilistic modelling. Starting with an initial design, we propose probabilistic models that are then updated with improved experimental design, and so on. Our goal is to increase the number and quality of measurements in the experiments and hence the quality of inference in the modelling and analysis steps downstream.</span>
 
-We design well-controlled tractable cancer models to study the process of oncogenesis, in collaboration with [Luke Boulter's lab][2] at the [Institute of Genetics & Molecular Medicine][1] (IGMM). We do this in the context of Hepatocellular Carcinoma (HCC), which is the most common form of primary liver cancer. Using our tractable models, we trace clonal evolution over time at cellular resolution.
+We design well-controlled tractable cancer models to study the process of oncogenesis, in collaboration with [Luke Boulter's lab][2] at the [Institute of Genetics & Cancer][1] (IGC). We do this in the context of Hepatocellular Carcinoma (HCC), which is the most common form of primary liver cancer. Using our tractable models, we trace clonal evolution over time at cellular resolution.
 
 Technologies used include: 	
 * CRISPR-Cas9
@@ -21,6 +21,6 @@ Technologies used include:
 
 
 
- [1]: https://www.ed.ac.uk/igmm
+ [1]: https://www.ed.ac.uk/institute-genetics-cancer
  [2]: https://www.ed.ac.uk/mrc-human-genetics-unit/research/boulter-group
 
