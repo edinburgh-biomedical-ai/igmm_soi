@@ -8,7 +8,7 @@ teaser:
 
 <h3>Published</h3><br/>
 
-[<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>][8], <em>Physical Review E (2020)</em>
+[<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>][3], <em>Physical Review E (2020)</em>
 
 S. Beentjes, A. Khamseh
 
