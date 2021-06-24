@@ -7,6 +7,10 @@ teaser:
 ---
 <h3>Published Articles</h3><br/>
 
+[<strong>Higher-order interactions in statistical physics and machine learning: A model-independent solution to the inverse problem at equilibrium</strong>][8], <em>Physical Review E (2020)</em>
+
+S. Beentjes, A. Khamseh
+
 [<strong>Machine learning determination of dynamical parameters: The Ising model case</strong>][1], <em>Physical Review B (2019)</em>
 
 G. Cossu, L. Del Debbio, T. Giani, A. Khamseh, M. Wilson
@@ -80,6 +84,7 @@ A. Khamseh, L. Del Debbio
  [5]: https://github.com/avakhamseh/physics_notes/blob/master/Poincare_Extended.pdf
  [6]: https://github.com/avakhamseh/physics_notes/blob/master/Virasoro_MQFT.pdf
  [7]: http://luscher.web.cern.ch/luscher/talks/Virasoro.pdf
+ [8]: https://doi.org/10.1103/PhysRevE.102.053314
 
  
 
