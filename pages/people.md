@@ -53,8 +53,8 @@ permalink: "/people/"
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Vidhyah Ganesharaja" width = 150px height = 100px></td>
 
-      <td><strong>Vidhyah Ganesharaja</strong>: MSc student</td>
-      
+      <td><strong>Vidhyah Ganesharaja</strong>: MSc student<br /><br /> Trajectory inference of cellular morphologies for drug discovery</td>
+
   </tr>
 </table>
 
