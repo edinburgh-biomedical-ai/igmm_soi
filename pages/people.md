@@ -43,12 +43,12 @@ permalink: "/people/"
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Shuyang Wu" width = 150px height = 100px></td>
 
-      <td><strong>Shuyang Wu</strong>: MSc student</td>
+      <td><strong>Shuyang Wu</strong>: MSc student<br /><br />Detecting oncogenic mutations and morphological changes in histology images of early cancer via machine learning</td>
   </tr>
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Varsha Kesavan" width = 150px height = 100px></td>
 
-      <td><strong>Varsha Kesavan</strong>: MSc student</td>
+      <td><strong>Varsha Kesavan</strong>: MSc student<br /><br /> Investigating synthetically generated single cell RNA-sequencing data via generative networks </td>
   </tr>
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Vidhyah Ganesharaja" width = 150px height = 100px></td>
