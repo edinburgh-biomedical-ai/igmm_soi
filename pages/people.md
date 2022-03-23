@@ -23,7 +23,7 @@ permalink: "/people/"
      <tr>
       <td><img src="../images/yuelin_yao.png" alt="Yuelin Yao" width = 150px height = 100px></td>
 
-      <td><strong>Yuelin Yao</strong>: PhD student</td>
+      <td><strong>Yuelin Yao</strong>: PhD student (SoI)</td>
   </tr>
      <tr>
       <td><img src="../images/../images/group_member.png" alt="Kelsey Tetley-Campbell" width = 150px height = 100px></td>
