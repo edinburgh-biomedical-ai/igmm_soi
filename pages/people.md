@@ -28,7 +28,7 @@ permalink: "/people/"
      <tr>
       <td><img src="../images/../images/group_member.png" alt="Kelsey Tetley-Campbell" width = 150px height = 100px></td>
 
-      <td><strong>Kelsey Tetley-Campbell</strong>: PhD student (HGU)</td>
+      <td><strong>Kelsey Tetley-Campbell</strong>: PhD student (MRC HGU)</td>
   </tr>
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Olivier Labayle Pabet" width = 150px height = 100px></td>
@@ -38,7 +38,23 @@ permalink: "/people/"
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Hugh Warden" width = 150px height = 100px></td>
 
-      <td><strong>Hugh Warden</strong>: PhD Rotation student (MRC HGU)</td>
+      <td><strong>Hugh Warden</strong>: PhD student (MRC HGU)</td>
+  </tr>
+   <tr>
+      <td><img src="../images/../images/group_member.png" alt="Shuyang Wu" width = 150px height = 100px></td>
+
+      <td><strong>Shuyang Wu</strong>: MSc student</td>
+  </tr>
+   <tr>
+      <td><img src="../images/../images/group_member.png" alt="Varsha Kesavan" width = 150px height = 100px></td>
+
+      <td><strong>Varsha Kesavan</strong>: MSc student</td>
+  </tr>
+   <tr>
+      <td><img src="../images/../images/group_member.png" alt="Vidhyah Ganesharaja" width = 150px height = 100px></td>
+
+      <td><strong>Vidhyah Ganesharaja</strong>: MSc student</td>
+      
   </tr>
 </table>
 
