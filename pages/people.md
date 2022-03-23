@@ -24,8 +24,13 @@ permalink: "/people/"
       <td><img src="../images/yuelin_yao.png" alt="Yuelin Yao" width = 150px height = 100px></td>
 
       <td><strong>Yuelin Yao</strong>: PhD student (SoI)</td>
+  </tr>   
+  <tr>
+      <td><img src="../images/../images/group_member.png" alt="Stephanie MacMaster" width = 150px height = 100px></td>
+
+      <td><strong>Stephanie MacMaster</strong>: Research Assistant (MRC HGU)</td>
   </tr>
-     <tr>
+   <tr>
       <td><img src="../images/../images/group_member.png" alt="Kelsey Tetley-Campbell" width = 150px height = 100px></td>
 
       <td><strong>Kelsey Tetley-Campbell</strong>: PhD student (MRC HGU)</td>
