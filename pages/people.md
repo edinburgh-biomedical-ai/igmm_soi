@@ -50,6 +50,11 @@ permalink: "/people/"
 
       <td><strong>Hugh Warden</strong>: PhD student (MRC HGU)</td>
   </tr>
+  <tr>
+      <td><img src="../images/../images/group_member.png" alt="Richard Kettle" width = 150px height = 100px></td>
+
+      <td><strong>Richard Kettle</strong>: PhD student (SoI)</td>
+  </tr>
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Shuyang Wu" width = 150px height = 100px></td>
 
