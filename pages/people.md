@@ -31,7 +31,7 @@ permalink: "/people/"
       <td><strong>Ed Jarman</strong>: Research Fellow (MRC HGU, CRUK)</td>
   </tr>     
   <tr>
-      <td><img src="../images/../images/group_member.png" alt="Stephanie MacMaster" width = 150px height = 100px></td>
+      <td><img src="../images/stephanie+pic.jpeg" alt="Stephanie MacMaster" width = 150px height = 100px></td>
 
       <td><strong>Stephanie MacMaster</strong>: Research Assistant (MRC HGU)</td>
   </tr>
