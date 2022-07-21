@@ -41,7 +41,7 @@ permalink: "/people/"
       <td><strong>Olivier Labayle Pabet</strong>: Biomedical AI PhD student (SoI)</td>
   </tr>
    <tr>
-      <td><img src="../images/../images/group_member.png" alt="Hugh Warden" width = 150px height = 100px></td>
+      <td><img src="../images/hugh_warden.jpeg" alt="Hugh Warden" width = 150px height = 100px></td>
 
       <td><strong>Hugh Warden</strong>: PhD student (MRC HGU)</td>
   </tr>
