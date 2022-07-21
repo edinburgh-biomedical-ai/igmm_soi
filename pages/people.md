@@ -41,7 +41,7 @@ permalink: "/people/"
       <td><strong>Kelsey Tetley-Campbell</strong>: PhD student (MRC HGU)</td>
   </tr>
    <tr>
-      <td><img src="../images/../images/group_member.png" alt="Olivier Labayle Pabet" width = 150px height = 100px></td>
+      <td><img src="../images/olivier_labayle.jpeg" alt="Olivier Labayle Pabet" width = 150px height = 100px></td>
 
       <td><strong>Olivier Labayle Pabet</strong>: Biomedical AI PhD student (SoI)</td>
   </tr>
