@@ -30,11 +30,6 @@ permalink: "/people/"
 
       <td><strong>Ed Jarman</strong>: Research Fellow (MRC HGU, CRUK)</td>
   </tr>     
-  <tr>
-      <td><img src="../images/stephanie+pic.jpeg" alt="Stephanie MacMaster" width = 150px height = 100px></td>
-
-      <td><strong>Stephanie MacMaster</strong>: Research Assistant (MRC HGU)</td>
-  </tr>
    <tr>
       <td><img src="../images/../images/group_member.png" alt="Kelsey Tetley-Campbell" width = 150px height = 100px></td>
 
@@ -47,8 +42,11 @@ permalink: "/people/"
   </tr>
    <tr>
       <td><img src="../images/hugh_warden.jpeg" alt="Hugh Warden" width = 150px height = 100px></td>
-
       <td><strong>Hugh Warden</strong>: PhD student (MRC HGU)</td>
+  </tr>
+   <tr>
+      <td><img src="../images/jesko_wagner.jpeg" alt="Jesko Wagner" width = 150px height = 100px></td>
+      <td><strong>Jesko Wagner</strong>: PhD student (MRC HGU) jointy supervised with <br/>  Sjoerd Beentjes (IGC, primary supervisor)</td>
   </tr>
   <tr>
       <td><img src="../images/../images/group_member.png" alt="Richard Kettle" width = 150px height = 100px></td>
